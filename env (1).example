@@ -1,0 +1,15 @@
+# Banco de dados
+DATABASE_URL=postgresql://usuario:senha@localhost:5432/mechanix
+
+# Autenticação
+JWT_SECRET=coloque_uma_chave_secreta_aqui
+
+# Servidor
+PORT=3000
+NODE_ENV=development
+
+# API externa (opcional)
+# WHATSAPP_API_KEY=
+# SMTP_HOST=
+# SMTP_USER=
+# SMTP_PASS=
