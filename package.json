@@ -1,9 +1,13 @@
 {
-  "name": "mechanix",
+  "name": "mecania",
   "version": "1.0.0",
+  "description": "MecânIA - Sistema de Gestão para Mecânicas",
   "scripts": {
     "build": "echo 'Static site - no build needed'",
     "dev": "npx serve .",
     "start": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
   }
 }
